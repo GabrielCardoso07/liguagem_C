@@ -5,7 +5,7 @@ Autor: Gabriel Rodrigues Ferreira Cardoso
 #include <stdio.h>
 #include <stdint.h>
 
-int main(int agrc, char** argv){
+int main(){
     int n, fat, i;
     printf("Digite um valor maior que 1: ");
     scanf("%d", &n);
