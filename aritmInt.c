@@ -4,7 +4,7 @@ Autor: Gabriel Rodrigues F Cardoso
 */
 #include <stdio.h>
 
-int main(){
+int main(void){
     int X, Y, soma, sub, mult, div, mod;
     printf("Digite dois numeros inteiros: ");
     scanf("%d %d", &X, &Y);
