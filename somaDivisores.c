@@ -5,7 +5,7 @@ Autor: Gabriel Rodrigues Ferreira Cardoso
 
 #include <stdio.h>
 
-int main(){
+int main(void){
     int n, i;
     int soma = 0;
     printf("Digite um numero: ");
