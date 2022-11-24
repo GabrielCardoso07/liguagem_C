@@ -4,7 +4,7 @@ Autor: Gabriel Rodrigues Ferreira Cardoso
 */
 #include <stdio.h>
 
-int main(){
+int main(void){
     int n, soma;
     printf("Digite um numero maior que 1: ");
     scanf("%d", &n);
