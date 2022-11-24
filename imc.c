@@ -4,7 +4,7 @@ Autor: Gabriel Rodrigues Ferreira Cardoso
 */
 #include<stdio.h>
 
-int main(){
+int main(void){
     float peso, altura, IMC;
     printf("Qual seu peso? ");
     scanf("%f", &peso);
