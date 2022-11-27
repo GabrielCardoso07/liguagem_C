@@ -6,7 +6,7 @@ Autor: Gabriel Rodrigues Ferreira Cardoso
 #include <stdio.h>
 #include <math.h>
 
-int main(){
+int main(void){
     float xa, xb, ya, yb, raiz;
     printf("Digite duas coordenadas: ");
     scanf("%f %f", &xa,  &ya);
